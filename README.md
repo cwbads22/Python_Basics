@@ -7,4 +7,5 @@
 </div>
 <br>
 <p>Laços de Repetição e Estruturas Condicionais em Python para Iniciantes</p>
+<p>Gerado com Gemini Deep Research</p>
 <a href="https://github.com/cwbads22/Python_Basics/blob/main/python_basico_01.md">Link</a>
